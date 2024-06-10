@@ -1,2 +1,2 @@
 # Settimana1
-Prima settimana 
+Qui verranno caricati gli esercizi giornalieri della prima settimana
